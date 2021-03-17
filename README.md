@@ -7,12 +7,14 @@
 * `git commit -m "message"` - commit staged changes to local repository
 * `git log` - displays prior commits
 * `git log --oneline` - displays prior commits on one line each
-*  `git log` - displays prior commits
+* `git log` - displays prior commits
 * `git config --list` - list current git configuration
+* `git config --help` - list options and syntax for git config
 
 ### Remote Commands
 * `git pull origin main` - pull remote `main` into current local branch
 * `git push origin main` - push local commits to remote repository
+
 
 ### Branching Commands
 * `git branch -M newName` - Rename current branch to `newName`
